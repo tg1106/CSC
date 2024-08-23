@@ -2,7 +2,6 @@ a = False
 ta = int(input())
 tb = int(input())
 if ta>tb:
-    print ("s")
     print ("Team A is the winner")
 elif ta<tb:
     print ("Team B is the winner")
